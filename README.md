@@ -10,6 +10,7 @@ Requirments:
 3. ✔ The second screen should show 10 random dog images of the selected breed.
 
 Addition:
+- Full screen application with android insets
 - Added the function of updating the list with a swipe, so that each time it will load different pictures
 - Caching breeds with local database
 - Some Unit Tests
