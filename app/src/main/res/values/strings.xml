@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dogs App</string>
+
+    <string name="error_connection_text">No Internet</string>
+
+    <string name="breeds_title">Breeds</string>
+
+</resources>
