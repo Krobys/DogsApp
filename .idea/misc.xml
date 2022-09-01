@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/CakeApp/app/src/main/res/layout/fragment_breeds.xml" value="0.3848958333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CakeApp/app/src/main/res/layout/fragment_dogs_for_breed.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CakeApp/app/src/main/res/layout/item_breed.xml" value="0.3848958333333333" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CakeApp/app/src/main/res/layout/item_dog_for_breed.xml" value="0.37083333333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
